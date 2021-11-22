@@ -31,6 +31,7 @@
     background-size: cover;
     height: 450px;
 }
-banner-text{
+banner-text{ font-size: 30px;
+    font-family: sans-serifgit ;
 
 }
