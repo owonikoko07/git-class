@@ -4,6 +4,7 @@
 }
 .navigation{
     background-color: green;
+    background-size: 50px;
     display: flex;
     justify-content: space-between;
 } 
@@ -18,4 +19,18 @@
 }
 .logo{
     height: 20px;
+}
+
+.row1{ width: 80%;
+    margin: 100px 50px;
+
+}
+.row1-column1{ 
+    background-image: url(./images/img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+banner-text{
+
 }
